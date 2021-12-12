@@ -1,10 +1,11 @@
 # GS-Sound-Pack
 
-CHANGELOG
+# CHANGELOG
 
-v 0.0.2
-Added Tool Breaking SFX
-Added Click SFX
-Added XP Orb SFX
-Added Alt Quieter Orb
-Added Item Pickup SFXGrass Sounds
+# v 0.0.2
++ 	Added Tool Break SFX
++ 	Added Click SFX
++ 	Added XP Orb SFX
++ 	Added Alt Quiet XP Orb SFX
++ 	Added Item Pickup SFX
++ 	Grass Footsteps SFX
