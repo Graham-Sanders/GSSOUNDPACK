@@ -1,6 +1,6 @@
 # Graham's Sound Pack
 This is an in-progress sound replacement resource pack for Minecraft 1.18.
-Sounds that are yet to be implemented are currently from the BDCraft Sound Resource Pack (found here https://bdcraft.net/downloads/soundspack-minecraft/).
+The BDCraft Sound Pack (found here https://bdcraft.net/downloads/soundspack-minecraft/) is acting as sort of a placeholder for all of the sounds that have yet to be implemented / created, until the pack has enough sounds to stand on it's own.
 
 
 # CHANGELOG
